@@ -5,4 +5,4 @@ This is a repository of the challenges I have completed to get the Free Code Cam
 - Responsive Web Design
 - JavaScript Algorithms and Data Structures
 
-Copies of the certificates are in the certs folder.
+Copies of the certificates are in the certifications folder.
